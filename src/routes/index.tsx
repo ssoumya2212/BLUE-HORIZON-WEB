@@ -131,7 +131,7 @@ function LandingPage() {
                     size="lg"
                     className="bg-emerald-500 text-white hover:bg-emerald-600"
                   >
-                    <a href="/Blue-Horizon-App.apk" download>
+                    <a href="https://github.com/ssoumya2212/Blue-Horizon/releases/latest/download/app-debug.apk" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-4 w-4" /> Android (.apk)
                     </a>
                   </Button>
